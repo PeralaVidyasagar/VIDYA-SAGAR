@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE22-D61B
+
+ Directory of C:\GIT
+
+20-07-2024  13:22    <DIR>          .
+20-07-2024  12:23        68,131,584 Git-2.45.2-64-bit.exe
+20-07-2024  12:58               336 git.exe
+20-07-2024  13:22                 0 test1.txt
+               3 File(s)     68,131,920 bytes
+               1 Dir(s)  178,784,567,296 bytes free
