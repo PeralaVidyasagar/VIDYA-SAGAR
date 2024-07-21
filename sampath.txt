@@ -1,0 +1,16 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is B6CB-E5E5
+
+ Directory of D:\GIT
+
+21-07-2024  12:57    <DIR>          .
+26-06-2024  18:37               215 for loop.py
+20-07-2024  12:23        68,131,584 Git-2.45.2-64-bit.exe
+21-07-2024  11:52    <DIR>          javasymbolsolver-maven-sample
+20-07-2024  13:44               432 sagar.html
+20-07-2024  23:40               597 sagar.txt
+21-07-2024  12:57                 0 sampath.txt
+20-07-2024  15:04               483 sanju.txt
+20-07-2024  14:28                24 test.index
+               7 File(s)     68,133,335 bytes
+               2 Dir(s)  209,196,736,512 bytes free
